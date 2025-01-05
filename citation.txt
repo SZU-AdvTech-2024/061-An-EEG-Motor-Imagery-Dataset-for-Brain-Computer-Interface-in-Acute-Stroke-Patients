@@ -1,0 +1,10 @@
+@article{REPO061,
+    author = "Liu, Haijie and Wei, Penghu and Wang, Haochong and Lv, Xiaodong and Duan, Wei and Li, Meijie and Zhao, Yan and Wang, Qingmei and Chen, Xinyuan and Shi, Gaige and others",
+    journal = "Scientific Data",
+    number = "1",
+    pages = "131",
+    publisher = "Nature Publishing Group UK London",
+    title = "{An EEG motor imagery dataset for brain computer interface in acute stroke patients}",
+    volume = "11",
+    year = "2024"
+}
